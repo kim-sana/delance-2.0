@@ -1,0 +1,8 @@
+# Project documents and reference material
+/docs/
+/spikes/
+/inv.json
+/pubinfo.json
+
+# Generated screenshot artifacts
+/app/screenshots/
